@@ -1,7 +1,7 @@
 # How to update minecraft client
 
 1. Click on Installations button
-![click installations](img\1.png)
+![click installations](img/1.png)
 
 2. Click on the new... button
 ![click new](img\2.png)
